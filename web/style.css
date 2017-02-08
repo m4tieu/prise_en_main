@@ -10,3 +10,29 @@
 .green{
     background-color: green;
 }
+.rouge{
+    background-color: red;
+}
+.bleu{
+    background-color: blue;
+}
+.jaune{
+    background-color: yellow;
+}
+.vert{
+    background-color:green;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    float: right;
+}
+li a{
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
